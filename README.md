@@ -1,6 +1,6 @@
 # Recognising_Text_Recognising_Processes
 
-![Ghostwriter Model Card within Transkribus](images/Ghostwriter.png)
+![Ghostwriter Model Card within Transkribus](Ghostwriter.png)
 
 This repository provides access to a set of Optical Character Recognition (OCR) and Automatic Text Recognition (ATR) walkthroughs, conducted as zero-shot experiments on *The Spiritualist Newspaper* (1869), held by the [National Library of Scotland's Data Foundry](https://data.nls.uk/data/digitised-collections/spiritualist-newspapers/). These experiments represent a range of providers, with their eventual Character Error Rates (CERs) calculated through Haveral's external, and open source, tool [CERberus](https://github.com/WHaverals/CERberus). For more information about this project, its funding and methodology, please see the *Recognising Text, Recognising Processes* [homepage](https://www.dhi.ac.uk/recognising-text).
 
